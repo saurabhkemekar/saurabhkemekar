@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kemekar</h1>
-<h5>Undergraduate Student in Electronics and Communication Engineering from Visvesvaraya National Institute of Technology. Area of Interested Computer Vision and Deep Learning</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
+Undergraduate Student in Electronics and Communication Engineering from Visvesvaraya National Institute of Technology. Area of Interested Computer Vision and Deep Learning
 
 - 🔭 I’m currently working on **Multi View Stereo**
 
