@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kemekar</h1>
-<h4 align="center">Interested in field of Computer Vision and Deep Learning</h4>
+<h5>Undergraduate Student in Electronics and Communication Engineering from Visvesvaraya National Institute of Technology. Area of Interested Computer Vision and Deep Learning</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
 
 - 🔭 I’m currently working on **Multi View Stereo**
