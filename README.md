@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
 Hello!
 
-I am a Sophomore year undergraduate student pursuing my B.Tech degree in Electronics and Communication Engineering. My interest lies in the field of Computer Vision and Image Processing
+I am a 3^rd  year undergraduate student pursuing my B.Tech degree in Electronics and Communication Engineering. My interest lies in the field of Computer Vision and Image Processing
 - 🔭 I’m currently working on **Multi View Stereo**
 
 - 👨‍💻 All of my projects are available at [https://saurabhkemekar.github.io/Saurabh-Kemekar/](https://saurabhkemekar.github.io/Saurabh-Kemekar/)
