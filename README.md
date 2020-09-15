@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
 Hello!
 
-I am Saurabh Kemekar, a Junior year undergraduate in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of 
+I am Saurabh Kemekar, a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of 
 IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision and Image Processing and Deep Learning.
 - 🔭 I’m currently working on **Multi View Stereo**
 
