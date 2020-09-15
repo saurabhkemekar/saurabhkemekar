@@ -2,10 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
 Hello!
 
-I am a 3<sup>rd</sup>  year undergraduate student pursuing my B.Tech degree in Electronics and Communication Engineering. My interest lies in the field of Computer Vision and Image Processing
+I am Saurabh Kemekar, a Junior year undergraduate in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of 
+IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision and Image Processing and Deep Learning.
 - 🔭 I’m currently working on **Multi View Stereo**
 
-- 👨‍💻 All of my projects are available at [https://saurabhkemekar.github.io/Saurabh-Kemekar/](https://saurabhkemekar.github.io/Saurabh-Kemekar/)
+- 👨‍💻 All of my projects are available at [https://saurabhkemekar.github.io/Saurabh-Kemekar/](Website)
 
 - 📫 How to reach me **saurabhkemekar786@gmail.com**
 
