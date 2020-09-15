@@ -6,7 +6,7 @@ I am Saurabh Kemekar, a Junior year undergraduate in Electronics and Communicati
 IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision and Image Processing and Deep Learning.
 - 🔭 I’m currently working on **Multi View Stereo**
 
-- 👨‍💻 All of my projects are available at [https://saurabhkemekar.github.io/Saurabh-Kemekar/](Website)
+- 👨‍💻 All of my projects are available at [Website](https://saurabhkemekar.github.io/Saurabh-Kemekar/)
 
 - 📫 How to reach me **saurabhkemekar786@gmail.com**
 
