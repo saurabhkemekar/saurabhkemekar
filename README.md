@@ -3,8 +3,8 @@
 Hello!
 
 I am Saurabh Kemekar, a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of 
-IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision and Image Processing and Deep Learning.
-- 🔭 I’m currently working on **Multi View Stereo**
+IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision, Image Processing and Deep Learning.
+- 🔭 I’m currently working on **Deep Features
 
 - 👨‍💻 All of my projects are available at [Website](https://saurabhkemekar.github.io/Saurabh-Kemekar/)
 
