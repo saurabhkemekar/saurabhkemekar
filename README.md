@@ -1,17 +1,43 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kemekar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkemekar" alt="saurabhkemekar" /> </p>
-Hello!
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Saurabh Kemekar, a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of 
-IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision, Image Processing and Deep Learning.
-- 🔭 I’m currently working on **Deep Features
+<a href="https://twitter.com/KemekarSaurabh">
+  <img align="left" alt="saurabh kemekar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/saurabh-kemekar-a8589710b/">
+  <img align="left" alt="Saurabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- 👨‍💻 All of my projects are available at [Website](https://saurabhkemekar.github.io/Saurabh-Kemekar/)
 
-- 📫 How to reach me **saurabhkemekar786@gmail.com**
+![](https://visitor-badge.glitch.me/badge?page_id=saurabhkemekar.saurabhkemekar)
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saurabhkemekar&show_icons=true" alt="saurabhkemekar" /> </p>
+<br />
 
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-kemekar-a8589710b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saurabh-kemekar-a8589710b/" height="20" width="20" /></a>
-</p>
+Hi, I'm [Saurabh Kemekar](https://saurabhkemekar.github.io/Saurabh-Kemekar/), a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision, Image Processing and Deep Learning.
+
+
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Saurabh Kemekar](https://saurabhkemekar.github.io/Saurabh-Kemekar/);
+- 📝 [Resume](https://drive.google.com/file/d/1Do5cE50vFDd-1fUD_9WP2j9FMETXEbWq/view?usp=sharing)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/git.png"></code>
+
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
