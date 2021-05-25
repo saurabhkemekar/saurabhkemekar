@@ -36,7 +36,7 @@ Hi, I'm [Saurabh Kemekar](https://saurabhkemekar.github.io/Saurabh-Kemekar/), a 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saurabhkemekar&show_icons=true&theme=gotham" alt="saurabhkemekar" />
 
 
 
