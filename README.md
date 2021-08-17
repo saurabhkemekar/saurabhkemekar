@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Saurabh Kemekar](https://saurabhkemekar.github.io/Saurabh-Kemekar/), a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of IvLabs Robotics and AI lab of our university. My interest lies in the field of Computer Vision, Image Processing and Deep Learning.
+Hi, I'm [Saurabh Kemekar](https://saurabhkemekar.github.io/Saurabh-Kemekar/), a Junior year undergraduate student in Electronics and Communication at Visvesvaraya National Institute of Technology, India. I have been an active member of IvLabs Robotics and AI lab of our university. 
 
 
 
