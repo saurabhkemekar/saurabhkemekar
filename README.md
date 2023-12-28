@@ -10,6 +10,7 @@ I am a full stack developer. Working as Associate SDE 2 at Publicis Sapient.
 <a href=""><img height="25"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></a>
 <a href=""><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></a>
 <a href=""><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a>
+<a href="" ><img height="25" alt="Next.js" src="https://www.google.com/search?q=nextjs+logo&sca_esv=594242284&tbm=isch&sxsrf=AM9HkKnKtxFkyJyZGctmUHYm6J5qhIcTZA:1703777638513&source=lnms&sa=X&ved=2ahUKEwjEv62nurKDAxWt1zgGHdRuAroQ_AUoAXoECAEQAw&biw=1707&bih=797&dpr=1.13#imgrc=7G1yxMuQA0pXcM"/></a>
 <a href=""><img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/></a>
 <a href=""><img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></a>
 <a href=""><img height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"/></a>
